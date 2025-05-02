@@ -1,3 +1,18 @@
+<!-- زبان فارسی -->
+<p align="center">
+  <b>پنل X-UI برای مدیریت Xray به صورت وب</b><br>
+  رابط گرافیکی قدرتمند برای مدیریت چند کاربر و پروتکل در یک پورت، نصب سریع و کاملاً متن‌باز.
+</p>
+
+<p align="center">
+  👉 <a href="https://github.com/USERNAME/x-ui/blob/main/README_FA.md">مشاهده راهنمای کامل فارسی</a>
+</p>
+
+---
+
+<!-- زبان اصلی -->
+简体中文 | [ENGLISH](./README_EN.md)
+
 # X-UI
 简体中文|[ENGLISH](./README_EN.md)  
 
